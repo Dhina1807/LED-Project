@@ -13,7 +13,6 @@ import light1 from "./assets/light1.png";
 import light2 from "./assets/light2.png";
 import { CiStar } from "react-icons/ci";
 import { FaStar } from "react-icons/fa";
-
 import { Link } from "react-router-dom";
 
 
